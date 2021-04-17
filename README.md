@@ -1,2 +1,2 @@
-# webex
-Información de Webex
+# WebEx
+Información para los correos de Webex
